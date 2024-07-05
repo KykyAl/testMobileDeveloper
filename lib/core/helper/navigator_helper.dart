@@ -1,0 +1,82 @@
+class NavigatorHelper {
+  String root = "/";
+  String contactUs = "/ContactUs";
+  String privacy_policy = "/Privacy_Policy";
+  String disclaimer = "/Disclaimer";
+  String forget_password = "/Forget_password";
+  String dashboard = "/Dashboard";
+  String absensi = "/Absensi";
+  String initial_wo = "/InitialWo";
+  String doc_mat = "/Doc&material";
+  String fatToHome = "/FATToHome";
+  String wo = "/Wo";
+  String profile = "/Profile";
+  String login = "/Login";
+  String registrationForm = "/RegistrationForm";
+  String riwayatAbsensi = "/RiwayatAbsensi";
+  String riwayatWo = "/RiwayatWO";
+  String monitoringTeam = "/MonitoringTeam";
+  String detailNewInformation = "/DetailNewInformation";
+  String detailKehadiran = "/DetailKehadiran";
+  String detailVideoTutorial = "/DetailVideoTutorial";
+  String detailVideoTutorialDashboard = "/DetailVideoTutorialDasboard";
+  String videoTutorial = "/VideoTutorial";
+  String videoTutorialLandscape = "/VideoTutorialLandscape";
+  String videoTutorialLandscapeDashboard = "/VideoTutorialLandscapeDashboard";
+
+  String status = "/Status";
+  String detail = "/Detail";
+  String detailRiwayatWo = "/DetailRiwayatWo";
+  String from = "/Form";
+  String cuti = "/Cuti";
+  String sakit = "/Sakit";
+  String izin = "/Izin";
+  String menuLainnya = "/MenuLainnnya";
+  String slip = "/E-Slip";
+  String monitoringDetail = "/MonitoringDetail";
+  String monitoringWO = "/MonitoringWO";
+  String uploadPhotoWo = "/UploadPhotoWo";
+  String project = "/Project";
+  String form = "/form";
+  String camera = "/camera";
+  String detailPekerjaan = "/DetailPekerjaan";
+
+  String openProfilePhoto = "/ShowProfileImage";
+  String material = '/Material';
+  String error = '/Error';
+  String formStatusWo = "/FormStatusWo";
+
+  String materialBarcode = '/Barcode';
+  String materialTransfer = '/Transfer';
+  String imagePreviewWo = '/ImagePreviewWo';
+
+  String collectMaterial = "/WoCollectMaterial";
+  String woFormPekerjaan = "/WoFormPekerjaan";
+  String previewPhotoDocProject = "/PreviewPhotoDocProject";
+  String listTask = "/ListTask";
+  String videoPlayerDashboard = '/VideoPlayedDashboard';
+  String viewdetailPhotoMaterial = '/ViewDetailPhotoMaterial';
+  String showPointFatInMap = '/showMap';
+  String manegementFat = '/manegemenFat';
+  String createFat = '/Create-FAT';
+  String managementFatDetail = '/managementFatDetail';
+  String abd = "/Abd";
+  String showImage = "/showImage";
+  String editFAT = "/EditFat";
+  String bpjs = '/Bpjs';
+
+  String lainnyaProject = '/lainnyaProject';
+  String permit = '/permit';
+  String survei = '/survei';
+  String formSurvei = '/SurveiForm';
+  String masterDetailSurvey = '/MasterDetailSurvey';
+  String formPermit = '/formPermit';
+  String detaiPermit = '/DetailPermit';
+  String viewFotoPermit = '/ViewFotoPermit';
+  String pinjaman = '/Pinjaman';
+  String registrasi = '/Re';
+  String detailPinjaman = '/DetailPinjaman';
+  String mailBox = '/mailBox';
+  String mailBoxBody = '/mailBoxBody';
+  String notFound500 = '/notFound500';
+}
